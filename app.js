@@ -99,7 +99,7 @@ client.on('message', async (message) => {
 
   if (!registro[message.from]) {
 
-    client.sendMessage( message.from, '*¡Hola!* 👋 Gracias por comunicarte con *John Store.* 🍿🎬 recuerda que esta linea es solo de información.\n\n ⬇ Aquí te dejo nuestro número de ventas para que puedas contactarnos:\n\n*Ventas #1:* 📲 link https://wa.me/573234894929 \n\nUno de nuestros asesores 👩🏼‍💻👨🏽‍💻 te ayudará con tu requerimiento. 📞 *TE ESPERAMO*' )
+    client.sendMessage( message.from, '*¡Hola!* 👋 Gracias por comunicarte con *John Store.* 🍿🎬 recuerda que esta linea es solo de información.\n\n ⬇ Aquí te dejo nuestro número de ventas para que puedas contactarnos:\n\n*Ventas #1:* 📲 link https://wa.me/573132502527 \n\nUno de nuestros asesores 👩🏼‍💻👨🏽‍💻 te ayudará con tu requerimiento. 📞 *TE ESPERAMO*' )
 
   client.sendMessage(message.from, mediaFilemp4)
   client.sendMessage(message.from, mediaFilemp3)
